@@ -1,0 +1,10 @@
+C:\Users\Yang Shan\source\repos\SellView\SellView\bin\Debug\SellView.exe.config
+C:\Users\Yang Shan\source\repos\SellView\SellView\bin\Debug\SellView.exe
+C:\Users\Yang Shan\source\repos\SellView\SellView\bin\Debug\SellView.pdb
+C:\Users\Yang Shan\source\repos\SellView\SellView\obj\Debug\SellView.csprojAssemblyReference.cache
+C:\Users\Yang Shan\source\repos\SellView\SellView\obj\Debug\SellView.Form1.resources
+C:\Users\Yang Shan\source\repos\SellView\SellView\obj\Debug\SellView.Properties.Resources.resources
+C:\Users\Yang Shan\source\repos\SellView\SellView\obj\Debug\SellView.csproj.GenerateResource.cache
+C:\Users\Yang Shan\source\repos\SellView\SellView\obj\Debug\SellView.csproj.CoreCompileInputs.cache
+C:\Users\Yang Shan\source\repos\SellView\SellView\obj\Debug\SellView.exe
+C:\Users\Yang Shan\source\repos\SellView\SellView\obj\Debug\SellView.pdb

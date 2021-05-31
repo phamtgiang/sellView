@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SellView", "SellView\SellView.csproj", "{A353F481-2876-47C5-B85A-0C9B3AB981F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A353F481-2876-47C5-B85A-0C9B3AB981F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A353F481-2876-47C5-B85A-0C9B3AB981F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A353F481-2876-47C5-B85A-0C9B3AB981F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A353F481-2876-47C5-B85A-0C9B3AB981F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C860E4F8-1BEA-420C-A2D1-EC2F90938A84}
+	EndGlobalSection
+EndGlobal
